@@ -80,7 +80,10 @@ Code: Not publicly available (data confidentiality constraints)
 
 - Implemented decentralized messaging, file sharing, and consensus mechanisms in Go  
 - Integrated privacy-preserving distributed learning using fully homomorphic encryption (FHE)  
-- Best project grade in class (1st among 29 groups)
+- Best project grade in class (1st among 29 groups) in a cohort of 100+ Master’s students  
+
+Research Report:  
+[PDF](DSE-Report.pdf)
 
 ---
 
