@@ -85,27 +85,28 @@ Code: Not publicly available (data confidentiality constraints)
 
 ## Hackathons
 
-### Sui Blockchain Hackathon — Secure Smart Contract Escrow (TrustLink)  
-*Blockchain · Smart Contracts · Web3 Systems*
+### SUI x BSA Hackathon 2024 — 2nd Place (Prize Pool $20,000)  
+*Decentralized Systems · Blockchain · Smart Contracts*
 
-- Developed a secure escrow-style Web3 application for smart contract creation within 24 hours  
-- Designed contract logic and system architecture to ensure correctness and safety  
-- Contributed to a full-stack decentralized application built on the Sui blockchain  
-- Achieved **3rd place out of 22 international teams**  
-- Awarded a $4,500 cash prize  
+**Proximity — Decentralized Trust Graph for Presence Verification**
 
-Repository:  
-https://github.com/c0ntrolZ/TrustLink
+- Built a decentralized proximity detection system leveraging Bluetooth and blockchain to establish a real-time, immutable trust graph for verifying attendee presence  
+- Designed and deployed smart contracts to manage a secure and transparent on-chain trust graph  
+- Enabled reliable peer-to-peer presence verification without centralized control  
 
 ---
 
-### SUI Hackathon — Proximity (Decentralized Attestation Protocol)  
-*Blockchain · Graph-Based Systems*
+### SUI x BSA Hackathon 2023 — 3rd Place (Prize Pool $25,000)  
+*Blockchain · Smart Contracts · Web3 Systems*
 
-- Designed a decentralized proximity attestation system on SUI  
-- Leveraged graph-theoretic mechanisms for secure and verifiable proximity proofs  
-- Achieved **2nd place** (30+ participating teams)
+**TrustLink — Secure Smart Contract Escrow**
 
+- Developed a Web3 escrow application enabling secure online agreements  
+- Designed contract logic and system architecture ensuring trustless and verifiable execution  
+- Leveraged Move’s object-ownership model to guarantee safety and correctness  
+
+Repository:  
+https://github.com/c0ntrolZ/TrustLink
 ---
 
 ## Industry Experience
