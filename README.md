@@ -135,6 +135,7 @@ Selected among the top participants nationwide for analytical writing and philos
 
 Article:  
 https://frapp.ch/fr/articles/stories/deux-medailles-aux-olympiades-de-philosophie
+
 ---
 
 ## Technical Areas
