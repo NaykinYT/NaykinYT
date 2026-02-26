@@ -14,6 +14,7 @@ I am currently a Research Assistant at EPFL’s Laboratory of Physics of Biologi
 My work combines scalable learning systems with rigorous algorithmic reasoning, with applications ranging from large language model fine-tuning to SAT-based graph algorithms and combinatorial optimization.
 
 This profile highlights selected research projects, publications, and technical work.
+
 ---
 
 ## Current Research
