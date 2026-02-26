@@ -87,24 +87,34 @@ Code: Not publicly available (data confidentiality constraints)
 ## Hackathons
 
 ### SUI x BSA Hackathon 2024 — 2nd Place (Prize Pool $20,000)  
-*Decentralized Systems · Blockchain · Smart Contracts*
+*24-Hour International Hackathon · Decentralized Systems · Smart Contracts*
 
 **Proximity — Decentralized Trust Graph for Presence Verification**
 
-- Built a decentralized proximity detection system leveraging Bluetooth and blockchain to establish a real-time, immutable trust graph for verifying attendee presence  
-- Designed and deployed smart contracts to manage a secure and transparent on-chain trust graph  
-- Enabled reliable peer-to-peer presence verification without centralized control  
+- Designed and implemented a multi-component decentralized proximity detection system within a 24-hour competition  
+- Leveraged Bluetooth and blockchain to establish a real-time, immutable on-chain trust graph  
+- Developed backend services, web interface, and Move smart contracts enabling verifiable peer-to-peer presence proofs  
+- Achieved **2nd place** among 30+ international teams  
+
+Organization Repository:  
+https://github.com/Proximity-Hackaton
+
+Components:
+- Server: https://github.com/Proximity-Hackaton/proximity-server  
+- Web Demo: https://github.com/Proximity-Hackaton/proximity-web-demo  
+- Smart Contracts (Move): https://github.com/Proximity-Hackaton/proximity-move  
 
 ---
 
 ### SUI x BSA Hackathon 2023 — 3rd Place (Prize Pool $25,000)  
-*Blockchain · Smart Contracts · Web3 Systems*
+*24-Hour International Hackathon · Blockchain · Smart Contracts*
 
 **TrustLink — Secure Smart Contract Escrow**
 
-- Developed a Web3 escrow application enabling secure online agreements  
-- Designed contract logic and system architecture ensuring trustless and verifiable execution  
-- Leveraged Move’s object-ownership model to guarantee safety and correctness  
+- Designed and built a Web3 escrow system within a 24-hour competition  
+- Implemented smart contract logic leveraging Move’s object-ownership model for trustless and verifiable execution  
+- Architected a full-stack decentralized application ensuring correctness and safety  
+- Achieved **3rd place** in an international competition  
 
 Repository:  
 https://github.com/c0ntrolZ/TrustLink
