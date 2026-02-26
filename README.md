@@ -1,4 +1,4 @@
-# Yannik Tim Krone
+# Yannik Krone
 
 MSc Computer Science @ EPFL  
 Natural Language Processing · Machine Learning · Algorithms · Structural Methods · Optimization  
