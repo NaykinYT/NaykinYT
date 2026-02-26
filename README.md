@@ -1,7 +1,7 @@
 # Yannik Tim Krone
 
 MSc Computer Science @ EPFL  
-Machine Learning · Algorithms · Structural Methods · Optimization  
+Natural Language Processing · Machine Learning · Algorithms · Structural Methods · Optimization  
 
 ---
 
@@ -9,13 +9,27 @@ Machine Learning · Algorithms · Structural Methods · Optimization
 
 I am a Master’s student in Computer Science at EPFL with research interests in **Natural Language Processing, Machine Learning, and graph algorithms**, with a particular focus on principled optimization and structural methods.
 
-My work combines scalable learning systems with rigorous algorithmic reasoning, spanning large language model fine-tuning, SAT-based methods, and combinatorial optimization.
+I am currently a Research Assistant at EPFL’s Laboratory of Physics of Biological Systems, where I work on applied machine learning models to predict behavioral responses from neuronal activity.
+
+My work combines scalable learning systems with rigorous algorithmic reasoning, with applications ranging from large language model fine-tuning to SAT-based graph algorithms and combinatorial optimization.
 
 This profile highlights selected research projects, publications, and technical work.
+---
+
+## Current Research
+
+### Applied Machine Learning for Neural Information Encoding  
+*Computational Neuroscience · Representation Learning · Behavioral Modeling*
+
+Research Assistant — EPFL Laboratory of Physics of Biological Systems  
+
+- Developing machine learning models to predict behavioral responses from neuronal activity  
+- Investigating representations of information encoding in biological neural systems  
+- Working at the intersection of applied ML and theoretical modeling
 
 ---
 
-## Research
+## Research Projects
 
 ### Separator-Aware SAT Encoding for Exact Treewidth  
 *Algorithms · Graph Theory · SAT/MaxSAT · Structural Decomposition*
@@ -58,16 +72,7 @@ Code: Not publicly available (data confidentiality constraints)
 
 ---
 
-### Predictive Modeling of Behavioral Responses from Neural Activity  
-*Applied Machine Learning · Representation Learning · Computational Neuroscience*
-
-- Applied supervised learning techniques to predict behavioral reactions from neuronal activity  
-- Contributed to a broader study on information encoding in biological neural systems  
-- Research conducted at EPFL’s Laboratory of Physics of Biological Systems  
-
----
-
-## Systems & Engineering Projects
+## Selected Engineering Projects
 
 ### Secure Decentralized Peer-to-Peer System (Peerster)  
 *Distributed Systems · Cryptography · Secure Computation*
