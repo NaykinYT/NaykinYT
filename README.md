@@ -127,8 +127,7 @@ https://github.com/c0ntrolZ/TrustLink
 ## Industry Experience
 
 ### Bloomberg — Incoming Software Engineering Intern (London)
-
-Incoming Summer 2026.
+-- Summer 2026.
 
 ---
 
