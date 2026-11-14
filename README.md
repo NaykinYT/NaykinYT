@@ -9,7 +9,9 @@ Natural Language Processing · Machine Learning · Algorithms · Structural Meth
 
 I am a Master’s student in Computer Science at EPFL with research interests in **Natural Language Processing, Machine Learning, and graph algorithms**, with a particular focus on principled optimization and structural methods.
 
-I am currently a Research Assistant at EPFL’s Laboratory of Physics of Biological Systems, where I work on applied machine learning models to predict behavioral responses from neuronal activity.
+I am currently a Visiting Researcher at MIT CSAIL in the ALFA Group (October 2026–present; planned completion April 2027), conducting my EPFL master’s thesis research under Una-May O’Reilly, working with Erik Hemberg, and co-supervised by Martin Jaggi at EPFL. My current research focuses on coevolutionary learning algorithms and mechanistic interpretability.
+
+Previously (March 2025–June 2026), I was a Research Assistant at EPFL’s Laboratory of Physics of Biological Systems, where I worked on applied machine learning models to predict behavioral responses from neuronal activity.
 
 My work combines scalable learning systems with rigorous algorithmic reasoning, with applications ranging from large language model fine-tuning to SAT-based graph algorithms and combinatorial optimization.
 
@@ -19,14 +21,27 @@ This profile highlights selected research projects, publications, and technical 
 
 ## Current Research
 
+### Coevolutionary Learning Algorithms and Mechanistic Interpretability  
+*Machine Learning · Coevolutionary Algorithms · Interpretability*
+
+Visiting Researcher — MIT CSAIL, ALFA Group (October 2026–present; planned completion April 2027)  
+
+- Conducting my EPFL master’s thesis research under Una-May O’Reilly, working with Erik Hemberg  
+- Co-supervised by Martin Jaggi at EPFL  
+- Supported by a research grant from the Fondation Vincent Merkle
+
+---
+
+## Past Research
+
 ### Applied Machine Learning for Neural Information Encoding  
 *Computational Neuroscience · Representation Learning · Behavioral Modeling*
 
-Research Assistant — EPFL Laboratory of Physics of Biological Systems  
+Research Assistant — EPFL Laboratory of Physics of Biological Systems (March 2025–June 2026)  
 
-- Developing machine learning models to predict behavioral responses from neuronal activity  
-- Investigating representations of information encoding in biological neural systems  
-- Working at the intersection of applied ML and theoretical modeling
+- Developed machine learning models to predict behavioral responses from neuronal activity  
+- Investigated representations of information encoding in biological neural systems  
+- Worked at the intersection of applied ML and theoretical modeling
 
 ---
 
@@ -83,7 +98,7 @@ Code: Not publicly available (data confidentiality constraints)
 - Best project grade in class (1st among 29 groups) in a cohort of 100+ Master’s students  
 
 Research Report:  
-[PDF](DSE-Report.pdf)
+[PDF](papers/DSE-Report.pdf)
 
 ---
 
@@ -126,8 +141,11 @@ https://github.com/c0ntrolZ/TrustLink
 
 ## Industry Experience
 
-### Bloomberg — Software Engineering Intern (London)
-Summer 2026.
+### Bloomberg — Software Engineering Intern, June–September 2026, London
+
+- Designed and evaluated eight Model Context Protocol (MCP) tools for financial workflows  
+- Built an LLM-as-a-judge evaluation pipeline across 150 benchmark workflows  
+- Received a return offer
 
 ---
 
@@ -139,7 +157,25 @@ Summer 2026.
 
 ---
 
+## Education
+
+### EPFL — MSc Computer Science (2024–present)
+
+GPA: 5.43/6. Master’s thesis research conducted at MIT CSAIL.
+
+### EPFL — BSc Computer Science (September 2021–July 2024)
+
+Exchange year at Politecnico di Milano.
+
+---
+
 ## Additional Achievements
+
+### Fondation Vincent Merkle — Research Grant (2026)
+
+Awarded a research grant of approximately $18,000 supporting my research at MIT.
+
+---
 
 ### Swiss Philosophy Olympiad — 2nd Place (National Level, 2021)
 
@@ -155,5 +191,7 @@ https://frapp.ch/fr/articles/stories/deux-medailles-aux-olympiades-de-philosophi
 
 Machine Learning · Graph Algorithms · SAT/MaxSAT · Combinatorial Optimization  
 Large Language Models · Distributed Systems · Secure Computation  
+Agentic AI · MCP Tools · LLM-as-a-Judge · RAG · Federated Learning  
 
-Languages: Python, C, C++, Go, Java, Scala, SQL
+Languages: Python, C, C++, Go, Java, Scala, SQL  
+Libraries: PyTorch, TensorFlow, Hugging Face, NumPy
